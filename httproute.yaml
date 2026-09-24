@@ -5,6 +5,10 @@ metadata:
 spec:
   parentRefs:
     - name: nginx-gateway
+
+  hostnames:
+    - "technicalcloudknowledge.com"
+
   rules:
     - matches:
         - path:
