@@ -7,7 +7,7 @@ spec:
     - name: nginx-gateway
 
   hostnames:
-    - "technicalcloudknowledge.com"
+    - "api.technicalcloudknowledge.com"
 
   rules:
     - matches:
